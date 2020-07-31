@@ -6,5 +6,10 @@
 #### 사용언어 : HTML5, CSS3, jQuery, js
 #### 사용툴 : Photoshop, Figma, Zeplin, vscode
 #### demo site : https://kimjihun-dev.github.io/museum/
+
+1. 메뉴 풀다운
+2. scrollTrigger
+3. sw
+
 <br>
 <img src="https://github.com/kimjihun-dev/museum/blob/master/design.jpg" width="100%">
