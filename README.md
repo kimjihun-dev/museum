@@ -8,8 +8,9 @@
 #### demo site : https://kimjihun-dev.github.io/museum/
 
 1. 메뉴 풀다운
-2. scrollTrigger
-3. sw
+2. scrollTrigger 구현
+3. swiper 를 이용한 슬라이드
+4. video 백그라운드
 
 <br>
 <img src="https://github.com/kimjihun-dev/museum/blob/master/design.jpg" width="100%">
